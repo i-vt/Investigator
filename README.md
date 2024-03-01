@@ -1,0 +1,2 @@
+# Investigator
+Automating phishing investigations
